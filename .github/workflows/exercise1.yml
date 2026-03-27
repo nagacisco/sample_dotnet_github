@@ -1,12 +1,11 @@
+---
 name: exercise-1
 on:
-    push:
-    branches: 
-        -main
-
+  push: null
+  branches: -main
 jobs:
-    learning:
-        runs-on: ubuntu-latest
-        steps:
-            -name: learning
-            run: "echo Hello how are you"
+  learning:
+    runs-on: ubuntu-latest
+    steps:
+      -name: learning
+      run: echo Hello how are you
