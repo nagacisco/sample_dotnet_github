@@ -1,0 +1,7 @@
+C:\ci\sample_dotnet\MyWebApp\published\MyWebApp.exe
+C:\ci\sample_dotnet\MyWebApp\published\appsettings.Development.json
+C:\ci\sample_dotnet\MyWebApp\published\appsettings.json
+C:\ci\sample_dotnet\MyWebApp\published\MyWebApp.dll
+C:\ci\sample_dotnet\MyWebApp\published\MyWebApp.deps.json
+C:\ci\sample_dotnet\MyWebApp\published\MyWebApp.runtimeconfig.json
+C:\ci\sample_dotnet\MyWebApp\published\MyWebApp.pdb
