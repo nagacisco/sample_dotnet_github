@@ -1,13 +1,14 @@
 ---
-name: exercise-3
+name: exercise10
 
 on:
     pull_request:
         branches:
             - dev
+            - main
 
 jobs:
-    exercise3:
+    exercise9:
         runs-on: ubuntu-latest
         steps:
             - name: learing
